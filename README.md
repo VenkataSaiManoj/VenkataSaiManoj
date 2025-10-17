@@ -102,7 +102,7 @@ if __name__ == '__main__':
 * 👩‍💻 I'm currently working and 🧠learning on....   [Project1](link) & [Project2](link)
 * 👯‍♀️ I'm looking to collaborate on... Software Development Engineer, Full stack Devolper or MachineLearning Engineer roles
 * 📫 How to reach me... 📩 Shoot Me an [Email](mailto:venkatasaimanoj.usa@gmail.com)
-* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> Follow me on [Github](https://github.com/saimanoj00)
+* <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> Follow me on [Github](https://github.com/VenkataSaiManoj)
 <h4 align = "right" > ⚡ Fun fact: I'm a PlayStation game enthusiast 🎮. Let's connect if you're into gaming too! 🕹️😜 </h3>
   
 ---
