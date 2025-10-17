@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-* I am an enthusiastic full stack developer...,java Developer and Software Developer 😎, venturing into new horizons.
+* I am an enthusiastic full stack developer...,.Net Developer and Software Developer 😎, venturing into new horizons.
 
 * Upcoming Graduate in Computer Science 🎓.
 
@@ -15,10 +15,7 @@
 * My journey into software development began with an innate curiosity to solve complex problems and optimize processes through code.
 * 🤝  I'm open to collaborating on exciting projects as a Software Devolpment or Full stack Developer.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-manoj-768546170/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saimanoj00)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VenkataSai99/)
+
 
 ___
 
@@ -105,7 +102,6 @@ if __name__ == '__main__':
 * 👩‍💻 I'm currently working and 🧠learning on....   [Project1](link) & [Project2](link)
 * 👯‍♀️ I'm looking to collaborate on... Software Development Engineer, Full stack Devolper or MachineLearning Engineer roles
 * 📫 How to reach me... 📩 Shoot Me an [Email](mailto:venkatasaimanoj.usa@gmail.com)
-* 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/sai-manoj-768546170/)
 * <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> Follow me on [Github](https://github.com/saimanoj00)
 <h4 align = "right" > ⚡ Fun fact: I'm a PlayStation game enthusiast 🎮. Let's connect if you're into gaming too! 🕹️😜 </h3>
   
